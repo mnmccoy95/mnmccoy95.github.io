@@ -1,1 +1,1 @@
-# ~Morrigan McCoy's Personal Site~
+# Morrigan McCoy's Personal Site
