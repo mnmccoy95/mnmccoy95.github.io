@@ -738,7 +738,7 @@
 
 		&.main {
 			display: block;
-			height: 20em;
+			height: 9em;
 			border-radius: 0;
 
 			img {
@@ -1381,7 +1381,7 @@
 
 	@include breakpoint('<=large') {
 
-		$size-header: 20em;
+		$size-header: 9em;
 
 		/* Basic */
 
@@ -1439,7 +1439,7 @@
 				}
 
 				&.main {
-					height: 20em;
+					height: 9em;
 				}
 			}
 
