@@ -2039,11 +2039,27 @@ input, select, textarea {
 		}
 
 		.icon.solid:before {
-			font-weight: 900;
+			font-weight: 1000;
 		}
 
 		.icon.brands:before {
 			font-family: 'Font Awesome 5 Brands';
+		}
+
+		.fa-python.solid:before {
+			font-weight: 1;
+		}
+
+		.fa-html5.solid:before {
+			font-weight: 1;
+		}
+
+		.fa-css3-alt.solid:before {
+			font-weight: 1;
+		}
+
+		.fa-js-square.solid:before {
+			font-weight: 1;
 		}
 
 /* Image */
@@ -2961,7 +2977,7 @@ input, select, textarea {
 				}
 
 			.image.main {
-				height: 20em;
+				height: 9em;
 			}
 
 		/* Header */
