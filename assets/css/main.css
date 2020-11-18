@@ -2859,7 +2859,6 @@ input, select, textarea {
 		border-top: 0;
 		color: #c0c0c0;
 		overflow: hidden;
-		padding: 4em 0 2em 0;
 	}
 
 		#footer .copyright {
@@ -3330,3 +3329,13 @@ input, select, textarea {
 			}
 
 	}
+
+.details {
+	padding-bottom: 1em;
+	margin-bottom: 0.5em;
+	border-bottom: solid 1px #e4e4e4;
+}
+
+.job-title {
+	margin-bottom: 0.2em;
+}
