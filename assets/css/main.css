@@ -3339,3 +3339,13 @@ input, select, textarea {
 .job-title {
 	margin-bottom: 0.2em;
 }
+
+.logo {
+	height: 8em;
+	width: auto;
+	margin-left: 2em;
+}
+
+.my-container {
+	display:flex;
+}
